@@ -20,56 +20,70 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 - 2 eixos e encaixes (1 engrenagem com uma base maior e 1 estrela)
 - 5 componentes móveis (5 caixas)
 
-## 📏 Medidas feitas com paquímetro
+## ## 📏 Medidas (feitas com paquímetro)
 
-altura engrenagem = 0.55mm
-raio engrenagem + dentes = 2.3mm
-raio engrenagem - dentes = 1.6mm
-lado quadrado engrenagem = 0.65mm
-altura engrenagem + 1.25mm
-circulo interno/stands da base = ~~0.45mm
- 
-altura engrenagem grande + parafusão = 4.05mm
-raio interno engrenagem grande = 2.55mm
-raio externo engrenagem grande = 3.45mm
-raio parafuso engrenagem grande = 0.8mm
- 
-altura da forma Y da estrela = 4.7mm
-grossura perninha estrela = 0.85mm
-altura perna estrela = 0.74mm
-altura centro estrela = 1.1mm
- 
-altura base = 0.35mm
-altura base + stand = 0.75mm
-raio base = 10cm
- 
-tamanho cutouts insets = 0.2mm
-distancia lado outer do stand -- lado dentro do cutout = 0.85mm
- 
-altura cover base = 0.16mm
-grossura lip coverbase = 4.45mm
-altura parede coverbase = 1cm
-altura lip parede coverbase = 0.7mm
-distancia cutout coverbase = 1.1mm
- 
-tamanho pétala = 4.5cm
-largura pétala = 4.1cm
-parede pétala = 0.24mm
-distancia canto pétala -- ponta 4.85mm
-distancia (reta) trilho 4.24mm
-grossura trilho = 0.55mm
-raio stub de cima pétalas = 0.5mm
+**Engrenagens pequenas**
+- Altura da engrenagem: 0,55 mm  
+- Raio da engrenagem (com dentes): 2,3 mm  
+- Raio da engrenagem (sem dentes): 1,6 mm  
+- Lado do quadrado interno da engrenagem: 0,65 mm  
+- Altura da engrenagem + base: 1,25 mm  
+- Círculo interno / suportes da base: ~0,45 mm  
+
+**Engrenagem grande**
+- Altura da engrenagem com parafuso: 4,05 mm  
+- Raio interno: 2,55 mm  
+- Raio externo: 3,45 mm  
+- Raio do parafuso: 0,8 mm  
+
+**Peça em formato de estrela**
+- Altura da estrutura em “Y”: 4,7 mm  
+- Espessura das hastes: 0,85 mm  
+- Altura de cada haste: 0,74 mm  
+- Altura do centro: 1,1 mm  
+
+**Base**
+- Altura da base: 0,35 mm  
+- Altura da base com suporte: 0,75 mm  
+- Raio da base: 10 cm  
+
+**Encaixes e recortes**
+- Tamanho dos recortes (cutouts/insets): 0,2 mm  
+- Distância do lado externo do suporte até o lado interno do recorte: 0,85 mm  
+
+**Tampa (cover base)**
+- Altura da base da tampa: 0,16 mm  
+- Espessura da borda (lip): 4,45 mm  
+- Altura da parede: 1 cm  
+- Altura da borda da parede: 0,7 mm  
+- Distância do recorte: 1,1 mm  
+
+**Pétalas e trilhos**
+- Tamanho da pétala: 4,5 cm  
+- Largura da pétala: 4,1 cm  
+- Espessura da parede da pétala: 0,24 mm  
+- Distância do canto até a ponta: 4,85 mm  
+- Distância reta do trilho: 4,24 mm  
+- Espessura do trilho: 0,55 mm  
+- Raio do pino superior das pétalas: 0,5 mm  
+
 
 ## 🔨 Montagem
 
-1. na base que contém buracos de encaixe, comece primeiro encaixando as engrenagens pequenas que não contém nenhuma base, conforme a foto
-2. depois, com cuidado, pegue as engrenagens que possuem uma base, encaixando as engrenagens uma nas outras como um quebra cabeça
-3. Depois, a engrenagem maior, com a base maior, no centro (buraco que sobrou), aos poucos e com cuidado, encaixe-a, girando as demais engrenagens, até encaixar perfeitamente, conforme a imagem
-4. pegue a outra base (foto 1) para encaixar acima da base que acabamos de montar com as engrenagens (foto 2). cuidado! não force!
-5. pegue as caixas que contém os valores de ohms (conforme a foto) e encaixe o buraco na engrenagem que contém a base (nos cantos). para posicionar, posicione os dentes das engrenagens paralelo a base, com 3 pontas para fora conforme a imagem e coloque reto
- 
-6. depois, pegue a tampa principal e encaixe junto com as caixinhas embaixo, com cuidado, segurando e rente
- 
-7. depois, pegue a estrela final, encaixando-o no topo (a última engrenagem com base). lembrando que o parafuso (para encaixe) é para direita e o giro da caixa é para esquerda
- 
-8. depois, basta girar a estrela (com cuidado) para o lado oposto conforme tópico anterior e aproveite! vídeo abaixo mostra como funciona!s
+1. Na base que contém os furos de encaixe, comece encaixando as engrenagens pequenas que não possuem base, **conforme a imagem abaixo**.  
+
+2. Em seguida, pegue as engrenagens que possuem base e encaixe-as umas nas outras, como um quebra-cabeça.  
+
+3. Depois, posicione a engrenagem maior (com base maior) no centro, no espaço restante. Com cuidado, vá girando as outras engrenagens até que ela se encaixe perfeitamente, **conforme a imagem abaixo**.  
+
+4. Pegue a outra base (**conforme a imagem abaixo**) e encaixe-a sobre a base já montada com as engrenagens. **Atenção: não force o encaixe.**  
+
+5. Pegue as caixas com os valores em ohms (**conforme a imagem abaixo**) e encaixe o furo na engrenagem com base (nos cantos). Para posicionar corretamente, alinhe os dentes das engrenagens paralelamente à base, deixando três pontas voltadas para fora, **conforme a imagem abaixo**.  
+
+6. Em seguida, encaixe a tampa principal junto com as caixas inferiores, segurando tudo com cuidado e mantendo alinhado.  
+
+7. Depois, pegue a peça em formato de estrela e encaixe-a no topo (na última engrenagem com base).  
+   - O parafuso de encaixe deve ser girado para a direita.  
+   - O movimento da caixa ocorre para a esquerda.  
+
+8. Por fim, gire a estrela com cuidado no sentido oposto ao indicado anteriormente e observe o funcionamento. O vídeo abaixo demonstra o resultado final.  
