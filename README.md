@@ -20,7 +20,7 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 - 2 eixos e encaixes (1 engrenagem com uma base maior e 1 estrela)
 - 5 componentes móveis (5 caixas)
 
-## ## 📏 Medidas (feitas com paquímetro)
+## 📏 Medidas (feitas com paquímetro)
 
 **Engrenagens pequenas**
 - Altura da engrenagem: 0,55 mm  
