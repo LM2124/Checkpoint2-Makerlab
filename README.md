@@ -72,18 +72,34 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 
 1. Na base que contém os furos de encaixe, comece encaixando as engrenagens pequenas que não possuem base, **conforme a imagem abaixo**.  
 
+<img width="2044" height="1150" alt="Media" src="https://github.com/user-attachments/assets/edffad3e-2486-47e3-b50d-67005bd2b80a" />
+
 2. Em seguida, pegue as engrenagens que possuem base e encaixe-as umas nas outras, como um quebra-cabeça.  
 
-3. Depois, posicione a engrenagem maior (com base maior) no centro, no espaço restante. Com cuidado, vá girando as outras engrenagens até que ela se encaixe perfeitamente, **conforme a imagem abaixo**.  
+<img width="1200" height="1600" alt="Media (11)" src="https://github.com/user-attachments/assets/d8a2a1ce-0285-4844-85fa-d7a1955f1a10" />
 
-4. Pegue a outra base (**conforme a imagem abaixo**) e encaixe-a sobre a base já montada com as engrenagens. **Atenção: não force o encaixe.**  
+3. Depois, posicione a engrenagem maior (com base maior) no centro, no espaço restante. Com cuidado, vá girando as outras engrenagens até que ela se encaixe perfeitamente.  
+
+4. Pegue a outra base encaixe-a sobre a base já montada com as engrenagens. **Atenção: não force o encaixe.**  
+
+<img width="1200" height="1600" alt="Media (10)" src="https://github.com/user-attachments/assets/cbb02ecc-4f23-4129-b8c2-1a24a32525af" />
 
 5. Pegue as caixas com os valores em ohms (**conforme a imagem abaixo**) e encaixe o furo na engrenagem com base (nos cantos). Para posicionar corretamente, alinhe os dentes das engrenagens paralelamente à base, deixando três pontas voltadas para fora, **conforme a imagem abaixo**.  
 
-6. Em seguida, encaixe a tampa principal junto com as caixas inferiores, segurando tudo com cuidado e mantendo alinhado.  
+<img width="2044" height="1150" alt="Media (8)" src="https://github.com/user-attachments/assets/ffa59fdf-b9c8-420b-a145-abf31c809cf2" />
+
+6. Em seguida, encaixe a tampa principal (foto abaixo) junto com as caixas inferiores, segurando tudo com cuidado e mantendo alinhado.  
+
+<img width="1200" height="1600" alt="Media (1)" src="https://github.com/user-attachments/assets/880aa8ee-5560-4570-89f1-7158533582d0" />
 
 7. Depois, pegue a peça em formato de estrela e encaixe-a no topo (na última engrenagem com base).  
    - O parafuso de encaixe deve ser girado para a direita.  
    - O movimento da caixa ocorre para a esquerda.  
 
-8. Por fim, gire a estrela com cuidado no sentido oposto ao indicado anteriormente e observe o funcionamento. O vídeo abaixo demonstra o resultado final.  
+<img width="2044" height="1150" alt="Media (16)" src="https://github.com/user-attachments/assets/d5a37964-f8fe-48fb-8059-dd235e23cd60" />
+
+8. Por fim, gire a estrela com cuidado no sentido oposto ao indicado anteriormente e observe o funcionamento. O vídeo abaixo demonstra o resultado final.
+
+https://github.com/user-attachments/assets/5f285b02-8f84-45cb-9284-cfea263defd5
+
+
