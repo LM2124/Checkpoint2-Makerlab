@@ -34,17 +34,17 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 - Altura da engrenagem + base: 12.7 mm
 - Altura do quadrado = 7.2 mm
 - Lado do quadrado: 6.5 mm
-- Raio da engrenagem (com dentes): ~24 mm
+- Diâmetro da engrenagem (com dentes): ~24 mm
 - Diâmetro da engrenagem (sem dentes): ~15.5 mm
-- Raio do buraco interno: ~5mm
+- Diâmetro do buraco interno: ~5mm
 - Círculo interno / suportes da base: 4.5 mm
 
 ### Engrenagem grande
 
 - Altura da engrenagem com parafuso: 40.5 mm
-- Raio interno: 25.5 mm
-- Raio externo: 34.5 mm
-- Raio do parafuso: 8 mm
+- Diâmetro interno: 25.5 mm
+- Diâmetro externo: 34.5 mm
+- Diâmetro do parafuso: 8 mm
 
 ### Cover da base
 
