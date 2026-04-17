@@ -69,7 +69,7 @@ O arco da curva das pétalas é centralizado no centro da base, raio igual ao ra
 ### Tampa e trilhos
 
 - Altura da base da tampa: 3 mm
-- Espessura do trilho: ~66 mm
+- Espessura do trilho: ~6.6 mm
 - Distância lado interior inset pino -- lado interior trilho: 26.6 mm
 <!-- - Distância reta do trilho: ~42.7 mm -->
 
