@@ -64,7 +64,7 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 - Diâmetro dos pinos: 5.0 mm
 - Altura dos pinos: 3.5 mm
 
-O arco da curva das pétalas é centralizada no centro da base, raio igual ao raio da base (5.0 mm)
+O arco da curva das pétalas é centralizado no centro da base, raio igual ao raio da base (50 mm)
 
 ### Tampa e trilhos
 
